@@ -2,6 +2,7 @@
 This project leverages the power of Convolutional Neural Networks (CNNs) to detect plant diseases with high accuracy by analyzing images of leaves. By simply uploading a photo of a plant leaf, the model can identify whether the plant is healthy or infected, and if infected, it classifies the specific disease.
 
 🔍 Project Highlights:
+
 🚀 94% Accuracy on a large and diverse dataset of plant leaf images.
 
 🧠 Built using a deep CNN architecture optimized for image classification tasks.
