@@ -13,6 +13,7 @@ This project leverages the power of Convolutional Neural Networks (CNNs) to dete
 ⚙️ Trained on a large-scale dataset covering thousands of labeled images.
 
 🛠️ Tech Stack:
+
 Python
 
 TensorFlow / PyTorch (whichever you used)
@@ -22,6 +23,7 @@ OpenCV (for image preprocessing)
 NumPy, Matplotlib, Pandas (for analysis and visualization)
 
 📊 Model Workflow:
+
 Image Preprocessing – Resize, normalize, and augment input leaf images.
 
 CNN Architecture – Designed with convolutional layers, ReLU activations, max pooling, and dropout for regularization.
@@ -31,6 +33,7 @@ Training – Performed on a large dataset of labeled plant leaf images.
 Evaluation – Achieved 94% accuracy on validation/testing set.
 
 💡 Use Cases:
+
 Smart agriculture and crop monitoring
 
 Early disease detection to reduce crop loss
